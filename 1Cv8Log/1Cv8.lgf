@@ -1,5 +1,5 @@
 ﻿1CV8LOG(ver 2.0)
-97c78295-5bbe-44d9-bd85-2c07521fd8db
+7ee36f82-3230-4c9c-8bd2-9bc2c76b9d15
 
 {1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
 {2,"45-15",1},
@@ -10,4 +10,20 @@
 {4,"_$InfoBase$_.ConfigUpdate",3},
 {4,"_$InfoBase$_.DBConfigUpdateStart",4},
 {4,"_$InfoBase$_.DBConfigUpdate",5},
-{4,"_$Session$_.Finish",6}
+{4,"_$Session$_.Finish",6},
+{4,"_$InfoBase$_.RestoreStart",7},
+{4,"_$InfoBase$_.RestoreFinish",8},
+{4,"_$Session$_.AuthenticationError",9},
+{1,a8c560d9-2da4-48ac-817c-950d196fcad5,"Администратор",2},
+{13,1,2},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",10},
+{4,"_$Data$_.New",11},
+{5,e2610139-d36b-4655-b9ba-c0773895becd,"ПланОбмена.Распределенка",1},
+{4,"_$Transaction$_.Commit",12},
+{4,"_$Data$_.Update",13},
+{3,"BackgroundJob",3},
+{5,958b2a58-e877-496f-8ed5-9d2e26da7731,"РегистрСведений.ИсторияСтатусов",2},
+{5,ad83519e-6ad4-45a7-944f-182de3e406fe,"Документ.Заказ",3},
+{4,"_$Data$_.Post",14},
+{4,"_$PerformError$_",15}
